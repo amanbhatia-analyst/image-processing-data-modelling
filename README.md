@@ -1,1 +1,2 @@
 # image-processing-data-modelling
+This assignment includes designing, implementing, and comparing 2 of the machine learning models i.e... recurrent neural network (RNNs) and convolutional neural networks (CNNs) the objective was to classify hand written digits using MINIST dataset. The dataset is a benchmark in computer vision, it contains 70000 grayscale images from digit 0-9, each having size 28*28 pixels. The target is to compare strength and limitation of RNN and CNN architectures in how they handle image classification tasks. 
